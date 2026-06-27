@@ -1,60 +1,112 @@
 #EXTM3U x-tvg-url="epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 group-title="央视HTTP",CCTV-1 综合
-http://112.232.100.10:8080/PLTV/88888888/224/3221225094/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-2 财经
-http://112.232.100.10:8080/PLTV/88888888/224/3221225095/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-3 综艺
-http://112.232.100.10:8080/PLTV/88888888/224/3221225096/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-4 中文国际
-http://112.232.100.10:8080/PLTV/88888888/224/3221225097/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-5 体育
-http://112.232.100.10:8080/PLTV/88888888/224/3221225098/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-5+ 体育赛事
-http://112.232.100.10:8080/PLTV/88888888/224/3221225099/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-6 电影
-http://112.232.100.10:8080/PLTV/88888888/224/3221225100/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-7 国防军事
-http://112.232.100.10:8080/PLTV/88888888/224/3221225102/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-8 电视剧
-http://112.232.100.10:8080/PLTV/88888888/224/3221225101/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-9 纪录
-http://112.232.100.10:8080/PLTV/88888888/224/3221225103/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-10 科教
-http://112.232.100.10:8080/PLTV/88888888/224/3221225104/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-11 戏曲
-http://112.232.100.10:8080/PLTV/88888888/224/3221225105/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-12 社会与法
-http://112.232.100.10:8080/PLTV/88888888/224/3221225106/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-13 新闻
-http://112.232.100.10:8080/PLTV/88888888/224/3221225107/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-14 少儿
-http://112.232.100.10:8080/PLTV/88888888/224/3221225108/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-15 音乐
-http://112.232.100.10:8080/PLTV/88888888/224/3221225109/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-16 奥林匹克
-http://112.232.100.10:8080/PLTV/88888888/224/3221225454/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CCTV-17 农业农村
-http://112.232.100.10:8080/PLTV/88888888/224/3221225455/index.m3u8
-#EXTINF:-1 group-title="央视HTTP",CGTN
-http://112.232.100.10:8080/PLTV/88888888/224/3221225456/index.m3u8
+#EXTINF:-1,CCTV-1 高清
+http://1.94.31.214/php/ysp.php?id=cctv1
+#EXTINF:-1,CCTV-2 高清
+http://1.94.31.214/php/ysp.php?id=cctv2
+#EXTINF:-1,CCTV-3 高清
+http://1.94.31.214/php/ysp.php?id=cctv3
+#EXTINF:-1,CCTV-4 高清
+http://1.94.31.214/php/ysp.php?id=cctv4
+#EXTINF:-1,CCTV-5 高清
+http://1.94.31.214/php/ysp.php?id=cctv5
+#EXTINF:-1,CCTV-5 + 高清
+http://1.94.31.214/php/ysp.php?id=cctv5p
+#EXTINF:-1,CCTV-6 高清
+http://1.94.31.214/php/ysp.php?id=cctv6
+#EXTINF:-1,CCTV-7 高清
+http://1.94.31.214/php/ysp.php?id=cctv7
+#EXTINF:-1,CCTV-8 高清
+http://1.94.31.214/php/ysp.php?id=cctv8
+#EXTINF:-1,CCTV-9 高清
+http://1.94.31.214/php/ysp.php?id=cctv9
+#EXTINF:-1,CCTV-10 高清
+http://1.94.31.214/php/ysp.php?id=cctv10
+#EXTINF:-1,CCTV-11 高清
+http://1.94.31.214/php/ysp.php?id=cctv11
+#EXTINF:-1,CCTV-12 高清
+http://1.94.31.214/php/ysp.php?id=cctv12
+#EXTINF:-1,CCTV-13 高清
+http://1.94.31.214/php/ysp.php?id=cctv13
+#EXTINF:-1,CCTV-14 高清
+http://1.94.31.214/php/ysp.php?id=cctv14
+#EXTINF:-1,CCTV-15 高清
+http://1.94.31.214/php/ysp.php?id=cctv15
+#EXTINF:-1,CCTV-16 高清
+http://1.94.31.214/php/ysp.php?id=cctv16
+#EXTINF:-1,CCTV-16(4K)
+http://1.94.31.214/php/ysp.php?id=cctv164k
+#EXTINF:-1,CCTV-17 高清
+http://1.94.31.214/php/ysp.php?id=cctv17
+#EXTINF:-1,CCTV-4K
+http://1.94.31.214/php/ysp.php?id=cctv4k
+#EXTINF:-1,CCTV-8K
+http://1.94.31.214/php/ysp.php?id=cctv8k
+#EXTINF:-1,CCTV 风云剧场频道
+http://1.94.31.214/php/ysp.php?id=cctvfyjc
+#EXTINF:-1,CCTV 第一剧场频道
+http://1.94.31.214/php/ysp.php?id=cctvdyjc
+#EXTINF:-1,CCTV 怀旧剧场频道
+http://1.94.31.214/php/ysp.php?id=cctvhjjc
 
-#EXTINF:-1 group-title="卫视HTTP",山东卫视
-http://112.232.100.10:8080/PLTV/88888888/224/3221225354/index.m3u8
-#EXTINF:-1 group-title="卫视HTTP",北京卫视
-http://112.232.100.10:8080/PLTV/88888888/224/3221225125/index.m3u8
-#EXTINF:-1 group-title="卫视HTTP",东方卫视
-http://112.232.100.10:8080/PLTV/88888888/224/3221225131/index.m3u8
-#EXTINF:-1 group-title="卫视HTTP",湖南卫视
-http://112.232.100.10:8080/PLTV/88888888/224/3221225129/index.m3u8
-#EXTINF:-1 group-title="卫视HTTP",浙江卫视
-http://112.232.100.10:8080/PLTV/88888888/224/3221225130/index.m3u8
-#EXTINF:-1 group-title="卫视HTTP",江苏卫视
-http://112.232.100.10:8080/PLTV/88888888/224/3221225132/index.m3u8
-#EXTINF:-1 group-title="卫视HTTP",安徽卫视
-http://112.232.100.10:8080/PLTV/88888888/224/3221225140/index.m3u8
-#EXTINF:-1 group-title="卫视HTTP",深圳卫视
-http://112.232.100.10:8080/PLTV/88888888/224/3221225145/index.m3u8
-#EXTINF:-1 group-title="卫视HTTP",重庆卫视
-http://112.232.100.10:8080/PLTV/88888888/224/3221225148/index.m3u8
-#EXTINF:-1 group-title="卫视HTTP",四川卫视
-http://112.232.100.10:8080/PLTV/88888888/224/3221225149/index.m3u8
+#EXTINF:-1,北京卫视
+http://1.94.31.214/php/ysp.php?id=bjws
+#EXTINF:-1,江苏卫视
+http://1.94.31.214/php/ysp.php?id=jsws
+#EXTINF:-1,东方卫视
+http://1.94.31.214/php/ysp.php?id=dfws
+#EXTINF:-1,浙江卫视
+http://1.94.31.214/php/ysp.php?id=zjws
+#EXTINF:-1,湖南卫视
+http://1.94.31.214/php/ysp.php?id=hnws
+#EXTINF:-1,湖北卫视
+http://1.94.31.214/php/ysp.php?id=hbws
+#EXTINF:-1,广东卫视
+http://1.94.31.214/php/ysp.php?id=gdws
+#EXTINF:-1,广西卫视
+http://1.94.31.214/php/ysp.php?id=gxws
+#EXTINF:-1,黑龙江卫视
+http://1.94.31.214/php/ysp.php?id=hljws
+#EXTINF:-1,海南卫视
+http://1.94.31.214/php/ysp.php?id=hnws2
+#EXTINF:-1,重庆卫视
+http://1.94.31.214/php/ysp.php?id=cqws
+#EXTINF:-1,深圳卫视
+http://1.94.31.214/php/ysp.php?id=szws
+#EXTINF:-1,四川卫视
+http://1.94.31.214/php/ysp.php?id=scws
+#EXTINF:-1,河南卫视
+http://1.94.31.214/php/ysp.php?id=henanws
+#EXTINF:-1,福建东南卫视
+http://1.94.31.214/php/ysp.php?id=fjdnhz
+#EXTINF:-1,贵州卫视
+http://1.94.31.214/php/ysp.php?id=gzhws
+#EXTINF:-1,江西卫视
+http://1.94.31.214/php/ysp.php?id=jxws
+#EXTINF:-1,辽宁卫视
+http://1.94.31.214/php/ysp.php?id=lnws
+#EXTINF:-1,安徽卫视
+http://1.94.31.214/php/ysp.php?id=ahws
+#EXTINF:-1,河北卫视
+http://1.94.31.214/php/ysp.php?id=hbws2
+#EXTINF:-1,山东卫视
+http://1.94.31.214/php/ysp.php?id=sdws
+#EXTINF:-1,天津卫视
+http://1.94.31.214/php/ysp.php?id=tjws
+#EXTINF:-1,吉林卫视
+http://1.94.31.214/php/ysp.php?id=jlws
+#EXTINF:-1,陕西卫视
+http://1.94.31.214/php/ysp.php?id=shanxiws
+#EXTINF:-1,宁夏卫视
+http://1.94.31.214/php/ysp.php?id=nxws
+#EXTINF:-1,内蒙古卫视
+http://1.94.31.214/php/ysp.php?id=nmgws
+#EXTINF:-1,云南卫视
+http://1.94.31.214/php/ysp.php?id=ynws
+#EXTINF:-1,山西卫视
+http://1.94.31.214/php/ysp.php?id=shanxiws2
+#EXTINF:-1,青海卫视
+http://1.94.31.214/php/ysp.php?id=qhws
+#EXTINF:-1,西藏卫视
+http://1.94.31.214/php/ysp.php?id=xzws
+#EXTINF:-1,新疆卫视
+http://1.94.31.214/php/ysp.php?id=xjws
